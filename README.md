@@ -5,7 +5,7 @@ A Simpe Todo app where we can maintain our day-to-day tasks or list everything t
 
 # Technologies
 
-Python, Django, Htmml, Css
+Python, Django, Html, Css
 
 
 # Demo
