@@ -3,6 +3,9 @@
 
 A Simpe Todo app where we can maintain our day-to-day tasks or list everything that we have to do, with the most important tasks at the top of the list.
 
+![todo](https://user-images.githubusercontent.com/75980447/172172945-cbd4df5a-f5b3-455d-9492-70f53912ee90.png)
+
+
 # Technologies
 
 Python, Django, Html, Css
